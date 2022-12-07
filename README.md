@@ -16,8 +16,8 @@ The output of the classififcation Model is as following:
     3.Fully Connected. 
     
     Implementation of the project:
-    1.Inputting a Image File from Image Dataset. 
-    2.Image Preprocessing.
+    1.Inputting a Image File from MRI Images Dataset. 
+    2.Applying Image Preprocessing.
     3.Conversion of this Image from RGB Scale to Grey Scale. (Thresholding and TFI-DF)
     4.Performing CNN Prediction.
     5.Output Displayed along with the Time Elapsed for carrying out the prediction. 
