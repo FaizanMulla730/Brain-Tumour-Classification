@@ -25,4 +25,4 @@ The output of the classififcation Model is as following:
  Also the GUI is provided for portraiyng the Front end TKinter files including Login, Registration and Training and Testing (Prediction).
  The Backend Connectivity utilized in the project is MySQLite 3.  
  
- I hope this project continues to inspire its future development. 
+ I hope this project continues to inspire its future development in building more efficient ML Classifiers.
