@@ -19,7 +19,7 @@ In this project a "Multiclass Classification" is carried out over the input set 
     2.Max-Pooling
     3.Fully Connected. 
     
-    Implementation of the project:
+### Implementation of the project:
     1.Inputting a Image File from MRI Images Dataset. 
     2.Applying Image Preprocessing.
     3.Conversion of this Image from RGB Scale to Grey Scale. (Thresholding and TFI-DF)
