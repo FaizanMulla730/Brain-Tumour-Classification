@@ -10,9 +10,11 @@ In this project a "Multiclass Classification" is carried out over the input set 
   2.Glioma Brain Tumour
   
   3.Meningioma Brain Tumour 
+  
   4.Pituitary Brain Tumour.
   
-  Training of the CNN Model includes:
+  
+### Training of the CNN Model includes:
     1.Convolution 2D 
     2.Max-Pooling
     3.Fully Connected. 
