@@ -5,6 +5,7 @@ Hello and Welcome to my Project based on "Brain Tumour Detection and Classificat
 In this project a "Multiclass Classification" is carried out over the input set of "Brain Tumour MRI Images."
 
 ### The output of the classififcation Model is as following:
+  
   1.Normal Brain
   
   2.Glioma Brain Tumour
