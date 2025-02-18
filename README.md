@@ -6,13 +6,13 @@ In this project a "Multiclass Classification" is carried out over the input set 
 
 ### The output of the classififcation Model is as following:
   
-  1.Normal Brain
+  1. Normal Brain
   
-  2.Glioma Brain Tumour
+  2. Glioma Brain Tumour
   
-  3.Meningioma Brain Tumour 
+  3. Meningioma Brain Tumour 
   
-  4.Pituitary Brain Tumour.
+  4. Pituitary Brain Tumour.
   
   
 ### Training of the CNN Model includes:
