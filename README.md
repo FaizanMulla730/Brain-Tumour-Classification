@@ -7,6 +7,7 @@ In this project a "Multiclass Classification" is carried out over the input set 
 
 
 ### The output of the classififcation Model is as following:
+
   
   1. Normal Brain
   
