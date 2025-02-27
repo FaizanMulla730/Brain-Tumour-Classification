@@ -15,7 +15,6 @@ In this project a "Multiclass Classification" is carried out over the input set 
   
   4. Pituitary Brain Tumour.
   
-  
 ### Training of the CNN Model includes:
     1.Convolution 2D 
     2.Max-Pooling
