@@ -26,8 +26,10 @@ In this project a "Multiclass Classification" is carried out over the input set 
     3.Conversion of this Image from RGB Scale to Grey Scale. (Thresholding and TFI-DF)
     4.Performing CNN Prediction.
     5.Output Displayed along with the Time Elapsed for carrying out the prediction. 
+
     
  Also the GUI is provided for portraiyng the Front end TKinter files including Login, Registration and Training and Testing (Prediction).
  The Backend Connectivity utilized in the project is MySQLite 3.  
+ 
  
  I hope this project continues to inspire its future development in building more efficient ML Classifiers.
