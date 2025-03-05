@@ -21,7 +21,6 @@ In this project a "Multiclass Classification" is carried out over the input set 
     1.Convolution 2D 
     2.Max-Pooling
     3.Fully Connected.
-    
 
 ### Implementation of the project:
     1.Inputting a Image File from MRI Images Dataset. 
